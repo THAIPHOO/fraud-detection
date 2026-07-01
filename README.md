@@ -89,16 +89,6 @@
 Дополнительно можно внедрить калибровку вероятностей и анализ стоимости ошибок (cost-sensitive learning), чтобы порог адаптировался под реальные финансовые потери от FN и операционные издержки от FP.
 
 
----
-
-## Структура проекта
-fraud-detection/
-├── data/ # Данные (игнорируются git)
-├── notebooks/
-│ └── fraud_detection.ipynb # Jupyter Notebook с полным пайплайном
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 ---
 
